@@ -1,0 +1,2 @@
+guiil = yjj
+print(guill)
